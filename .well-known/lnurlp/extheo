@@ -1,1 +1,1 @@
-{"callback":"https://lnga.netlify.app:443/.well-known/lnurlp/extheo","minSendable":1000,"maxSendable":100000000000,"metadata":"[[\"text/plain\",\"Payment to extheo\"],[\"text/identifier\",\"extheo@lnga.netlify.app\"]]","tag":"payRequest"}
+{"callback":"https://testlnurl.netlify.app:443/.well-known/lnurlp/extheo","minSendable":1000,"maxSendable":100000000000,"metadata":"[[\"text/plain\",\"Payment to extheo\"],[\"text/identifier\",\"extheo@lnga.netlify.app\"]]","tag":"payRequest"}
