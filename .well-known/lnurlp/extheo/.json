@@ -1,9 +1,4 @@
-{
-  "callback": "https://pay.bbw.sv:443/.well-known/lnurlp/extheo",
-  "minSendable": 1000,
-  "maxSendable": 100000000000,
-  "metadata":"[[\"text/plain\",\"Payment
-    to
-    extheo\"],[\"text/identifier\",\"extheo@pay.bbw.sv\"]]",
-  "tag": "payRequest"
-}
+
+  
+    {"callback":"https://pay.bbw.sv:443/.well-known/lnurlp/extheo","minSendable":1000,"maxSendable":100000000000,"metadata":"[[\"text/plain\",\"Payment to extheo\"],[\"text/identifier\",\"extheo@pay.bbw.sv\"]]","tag":"payRequest"}
+ 
