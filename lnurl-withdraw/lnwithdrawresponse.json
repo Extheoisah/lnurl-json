@@ -1,6 +1,6 @@
 {
     "tag": "withdrawRequest",
-    "callback": "https://https://testlnurl.netlify.app/withdraw/api/v1/lnurl/cb/AtHVkk4fsaJkZMys3NPLq6?id_unique_hash=2nN6tMiZGRNMdM2CbfZpwi",
+    "callback": "https://testlnurl.netlify.app/withdraw/api/v1/lnurl/cb/AtHVkk4fsaJkZMys3NPLq6?id_unique_hash=2nN6tMiZGRNMdM2CbfZpwi",
     "k1": "abcdefghiklmnopqrstuvwxyz",
     "minWithdrawable": 1234000,
     "maxWithdrawable": 1234000,
